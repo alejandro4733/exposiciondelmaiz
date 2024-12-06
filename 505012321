@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>maiz</title>
+</head>
+<body style="background-color: rgba(14, 6, 87, 0.712);">
+    <center>
+    <h1>receta maiz</h1>
+    </center>
+    <h2>
+    el maiz es un alimento que lleva mucho tiempo dentro de la 
+    <br> tierra y por eso se a hecho muchas recetas con el maiz
+    <br> por ejemplo la tortilla
+    <br>bueno la receta del maiz es la siguiente
+    <br>con la mazorca le quitamos todos los granos
+    <br>luego los molemos para que en una zona solida
+    <br>ponerlo en forma de circulo
+    <br>luego con poca agua lo integramos a la harina de maiz que hicimos
+    <br>para luego mezclarlo y calentarlo 
+    </h2>
+    <img src="imagen maiz.jpg" width="500px" height="350px" flex-director:end>
+</body>
+</html>
